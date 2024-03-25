@@ -1,0 +1,150 @@
+About Compiler books
+
+计算机各个方向名校公开课
+系统：
+
+6.828 / Fall 2014 这个，不用我多介绍了吧，xv6 和jos 的代码都值得好好读的。
+6.858 / Fall 2014 / Schedule 这是很多人忽视的6.858， computer system security方面的，lab都做完以后真·受益匪浅，还有video和notes，不能更良心。
+6.033 | Spring 2015 著名的CSE，我是把里面提到的论文都扫过一遍，很有用。
+6.824 Home Page: Spring 2015 读paper 和notes， 这个要注意的是现在的lab是用go写的，以前的是C++，两个都值得做（
+http://www.cs.nyu.edu/~mwalfish/classes/15sp/index.html 其实这个才是我最OS的入门课程，一应俱全，lab比较简单。
+15-213 不多说。
+2014/Syllabus harvard的系统方面的入门课，个人认为质量不比15-213差。
+http://www.cs.cmu.edu/~dga/15-440/F12/ 同样用go实现，没看完，不评价。
+CMSC 412: Operating Systems Fall 2015 6.828 补充。
+网络：
+
+CS144: Introduction to Computer Networking
+
+ML:
+
+Machine Learning 4771
+COS 511: Assignments
+CS 760 - Machine Learning
+10701/15781 Machine Learning
+http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml
+Topics covered in CMSC858L, Foundations of Machine Learning, Fall 2015
+COS 598C, Spring 2012: Home Page
+http://www.inf.ed.ac.uk/teaching/courses/iaml/
+CS 229: Machine Learning (Course handouts)
+CSE 705: Deep Learning
+11-785 DEEP LEARNING
+CSE 446 - Machine Learning
+https://computing.ece.vt.edu/~f15ece6504/#schedule
+CS231n Convolutional Neural Networks for Visual Recognition
+PLT:
+15-312: 15-312 Foundations of Programming Languages / Schedule UW CSE505, Fall 2012 这个也已经详细到可以当notes来读了。。
+CS 5510: Schedule and Homework 这个好处在于还有配套的racket代码。。
+CS 4110 - Programming Languages and Logics cornell这个讲了些跟logic有关的
+https://pl.barzilay.org/resources.html 用racket实现
+
+Compiler:
+15-411 Compiler Design / Schedule 这个是强推看一遍的。。
+
+Static analysis:
+Computer Laboratory
+UCLA CS 232 Static Program Analysis
+软件分析技术
+15-819 O: Program Analysis
+CS243 - Program Analysis and Optimizations
+Abstract Interpretation
+
+NLP：
+COMS E6998: Machine Learning for Natural Language Processing
+COMS W4705: Natural Language Processing (Spring 2015)
+Stanford University CS224d: Deep Learning for Natural Language Processing
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Operating System (操作系统)：本科时候的课，用的Standford开发的一个微型操作系统 Pintos​web.stanford.edu
+
+作为MP，大概有四五个小项目。原版的Pintos中用的是最简单的算法，这几个小项目要求优化这些算法以提高操作系统的效率。做完之后对操作系统会有一个比较完整的了解。说到操作系统再推荐本书：《Linux 内核设计的艺术（第2版）》，最开始喜欢这本书的原因是它是粉色的>< 但，前半部分真的写的不错！从开机启动开始，包括内存分配，CPU调度，etc. 用图解的方式算是非常深入浅出了。
+
+Algorithm (算法) ：CS473 Algorithm（口碑很好的课，特别想上但估计没机会了只能自己看，以及对应的 CMU Algorithms
+Distributed System (分布式系统) ：CS425 Distributed System(不算很好的讲义，因为内容比较杂，但老师讲的真的好)
+Database System (数据库) ： CS411 Database System(内容简单可以自学)
+Artificial Intelligence（人工智能）: Berkeley AI Materials （最喜欢的一门课，不过感觉自己学校的讲义没有Berkeley的好，所以一直看它的讲义作为补充，资料非常全而且简单易懂，强烈推荐）
+Machine Learning（机器学习）：太多了...... 列出几个UIUC和ML相关的 (虽然其实觉得并不，嗯)：CS446 Machine Learning, CS598 Machine Learning Theory, CS598 Machine Learning in Computational Biology
+Data Mining （数据挖掘）：CS412 Data Mining （Han的权威没啥争议，PPT也还可以，虽然讲课实在是有点慢）
+Coursera 上淘到的课：Ruby on Rails Web Development， Web Application Development (第一节课就图文并茂地介绍了一遍计算机网络的基础知识，估计是门被低估的好课)。顺便学计网的时候推荐一本书《图解HTTP》 。
+慕课网：推荐一个叫 MaterLiu 的讲师，初学web的时候的一些理论就靠刷他的视频了。另外学JS推荐看 《JavaScript高级程序设计》，说到这再推荐下 《Thinking in Java》和《Learning Python》两本书（我就是有私心2333）。
+最后放张自己这些年淘课做的笔记截图吧，以此自勉希望再接再厉233:
+Compiler:
+Stanford CS 143 （这个是编译基础课）
+https://www.coursera.org/course/compilers
+Compilers | Stanford Lagunita4
+CS 243 （编译进阶课，讲优化的）
+这个是06版的讲义，Ullman（龙书作者之一）写的，感觉非常详细，适合自学
+CS243 - Advanced Compiling Techniques
+这是新版的，感觉讲义很多地方没有写清楚，不太适合自学
+CS243 - Program Analysis and Optimizations
+CS343（这个是高阶课，全是读论文）
+http://web.stanford.edu/class/cs343/
+CMU的编译基础课：
+15-411 Compiler Design / Schedule
+CMU的进阶课：
+http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15745-s14/www/handouts.html
+
+Graphics：
+MIT的图形学内容很多，讲的也比较清楚
+Lecture Notes
+CMU系列课程，有21门：
+Carnegie Mellon Computer Graphics
+Stanford的：
+CS148 图形学基础是有录像的
+Courses in Graphics
+
+Algorithm:
+只推荐Princeton的系列课程，每个算法都有详细解释，Coursera上有教程
+而且每个算法都有demo，讲的很清楚，特别是红黑树部分（本来就是Sedgewick发明的，而且他在准备课程的时候想出了改进算法），课程作业设计很好，Coursera版也有面试问题，适合找工作用，网站上还有很多经典算法的java实现，代码都很简洁，还有详细注释
+Java Algorithms and Clients
+Part 1:
+Coursera - Free Online Courses From Top Universities
+Part 2:
+Coursera - Free Online Courses From Top Universities
+这是其他版本的，注意多了Combinatorial Search部分，也值得看一下：
+COS 226, Fall 2012: Lectures
+这是进阶版的：
+http://www.cs.princeton.edu/~wayne/kleinberg-tardos/
+
+Cryptography:
+Part 1:
+Coursera - Free Online Courses From Top Universities
+Part 2（一直没开课不知道怎么回事）:
+https://www.coursera.org/course/crypto2
+
+Information Theory:
+也是MIT的
+Lecture Notes
+
+Theory of Computation:
+MIT的
+Automata, Computability, and Complexity
+进阶版本：
+Advanced Complexity Theory
+Stanford的：
+这个也是Ullman讲的
+Coursera - Free Online Courses From Top Universities
+
+AI:
+同样MIT的，带有视频
+Artificial Intelligence
+
+ML:
+Stanford CS229
+CS 229: Machine Learning
+https://www.coursera.org/learn/machine-learning
+CS224d 录像讲义和幻灯片都有，资料很详细
+Stanford University CS224d: Deep Learning for Natural Language Processing
+神经网络，Hinton 讲的
+Coursera - Free Online Courses From Top Universities
